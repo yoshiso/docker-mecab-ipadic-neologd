@@ -1,0 +1,1 @@
+docker run -i --rm yoshiso/mecab-ipadic-neologd /bin/bash
